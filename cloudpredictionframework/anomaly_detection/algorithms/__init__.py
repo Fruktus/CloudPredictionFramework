@@ -1,0 +1,7 @@
+# flake8: noqa
+from cloudpredictionframework.anomaly_detection.algorithms.median_algorithm import MedianAlgorithm
+from cloudpredictionframework.anomaly_detection.algorithms.hybrid_algorithm import HybridAlgorithm
+from cloudpredictionframework.anomaly_detection.algorithms.kalman_algorithm import KalmanAlgorithm
+from cloudpredictionframework.anomaly_detection.algorithms.limit_algorithm import LimitAlgorithm
+from cloudpredictionframework.anomaly_detection.algorithms.savgol_algorithm import SavgolAlgorithm
+from cloudpredictionframework.anomaly_detection.algorithms.weighted_hybrid_algorithm import WeightedHybridAlgorithm
